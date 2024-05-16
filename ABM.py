@@ -11,7 +11,7 @@ params = {'world_size':(20,20),
           'num_agents':380,
           'same_pref' :0.4,
           'max_iter'  :100,
-          'out_path'  :r'/Users/li/Desktop/PPHA 30537/github/simple_abm/abm.csv' }
+          'out_path'  :r'/Users/li/Desktop/PPHA 30537/github/week-9/lab-9b/abm.csv' }
 
 class Agent():
     def __init__(self, world, kind, same_pref):
